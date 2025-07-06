@@ -17,9 +17,9 @@ Currently training **LibreModel I "Gigi"** - a 0.96B parameter language model bu
 - **Future models** - Scaling up with copyright-clean Common Corpus data
 
 **🌐 P2P & Collaboration**
-- **[PeerSuite](link)** - WebRTC-powered P2P collaboration platform
-- **[tryjero](link)** - Enhanced trystero library for better WebRTC
-- **[Totum Chat](link)** - Multi-model AI interface in a single HTML file
+- **[PeerSuite](https://github.com/openconstruct/Peersuite)** - WebRTC-powered P2P collaboration platform
+- **[tryjero]([link](https://github.com/openconstruct/tryjero)** - Enhanced trystero library for better WebRTC
+- **[Totum Chat]([link](https://github.com/openconstruct/totumchat)** - Multi-model AI interface in a single HTML file
 
 **🔧 Developer Tools**
 - **[T3XTR](https://t3xtr.org)** - Text conversion API (25x cheaper than ConvertAPI!)

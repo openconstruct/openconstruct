@@ -13,7 +13,7 @@ A public-domain-trained LLM built from the ground up.
 - **Cece (7B planned)** – Community corpus, code, and science  
 - Trained for *Chinchilla-optimal* efficiency  
 - FlashAttention 2, Sink Tokens, GQA, Differential Attention  
-- [Read the roadmap →](#) *(add link once published)*
+- [Read the roadmap →](https://libremodel.xyz) 
 
 🌐 **PeerSuite**  
 A privacy-first, decentralized workspace with chat, screenshare, whiteboards & Kanban.  

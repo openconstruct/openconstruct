@@ -21,10 +21,8 @@ Currently training **LibreModel I "Gigi"** - a 0.96B parameter language model bu
 - **[tryjero](https://github.com/openconstruct/tryjero)** - Enhanced trystero library for better WebRTC
 - **[Totum Chat](https://github.com/openconstruct/totumchat)** - Multi-model AI interface in a single HTML file
 
-**🔧 Developer Tools**
-- **[T3XTR](https://t3xtr.org)** - Text conversion API (25x cheaper than ConvertAPI!)
-
 **⚡ Past Adventures**
+- **[T3XTR](https://t3xtr.org)** (2025) - Text conversion API (25x cheaper than ConvertAPI!)
 - **Pennykoin** (2018) - Privacy cryptocurrency with RingCT
 - **BattleBash** (2016) - Sold 12 copies, learned valuable lessons 😅
 

@@ -1,25 +1,17 @@
 # Hey there! I'm Jerry 👋
 
-## 🧠 **Training AI on Humanity's Shared Heritage**
+## 🧠 **Training AI and coding**
 
-Currently training **LibreModel I "Gigi"** - a 0.96B parameter language model built exclusively on public domain data. No copyright infringement, just pure human knowledge that belongs to all of us.
-
-```bash
-💰 Total Cost: <$500 (proving democratization works!)
-⚡ Optimized: 9.6s/step with torch compile + sink tokens
-🎯 Philosophy: "We will become machine, and machine will become us"
-```
 
 ### 🚀 **What I'm Building**
 
 **🤖 LibreModel Family**
 - **Gigi** (0.96B) - Digital literary scholar trained on Gutenberg + Gov reports
-- **Future models** - Scaling up with copyright-clean Common Corpus data
-
-**🌐 P2P & Collaboration**
+- **IRIS 18B** - Fantastic small MoE
+**Suggested Repos**
 - **[PeerSuite](https://github.com/openconstruct/Peersuite)** - WebRTC-powered P2P collaboration platform
 - **[tryjero](https://github.com/openconstruct/tryjero)** - Enhanced trystero library for better WebRTC
-- **[Totum Chat](https://github.com/openconstruct/totumchat)** - Multi-model AI interface in a single HTML file
+- **[Freeclaw](https://github.com/openconstruct/freeclaw)** - python implementation of openclaw with zero API costs
 
 **⚡ Past Adventures**
 - **[T3XTR](https://t3xtr.org)** (2025) - Text conversion API (25x cheaper than ConvertAPI!)

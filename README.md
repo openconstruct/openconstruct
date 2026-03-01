@@ -10,7 +10,7 @@
 - **IRIS 18B** - Fantastic small MoE
 **Suggested Repos**
 - **[PeerSuite](https://github.com/openconstruct/Peersuite)** - WebRTC-powered P2P collaboration platform
-- **[tryjero](https://github.com/openconstruct/tryjero)** - Enhanced trystero library for better WebRTC
+- **[Umbra](https://github.com/openconstruct/Umbra/releases)** - Privacy browser based on Firefox ESR
 - **[Freeclaw](https://github.com/openconstruct/freeclaw)** - python implementation of openclaw with zero API costs
 
 **⚡ Past Adventures**

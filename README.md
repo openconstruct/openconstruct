@@ -1,13 +1,13 @@
 # Hey there! I'm Jerry 👋
 
-## 🧠 **Training AI and coding**
-
+Cc7tKYzqrYV9ZXi1ocktKw9xXPz3aBP3xVuUooj4pump $Freeclaw!
 
 ### 🚀 **What I'm Building**
 
 **🤖 LibreModel Family**
 - **Gigi** (0.96B) - Digital literary scholar trained on Gutenberg + Gov reports
 - **IRIS 18B** - Fantastic small MoE
+- 
 **Suggested Repos**
 - **[PeerSuite](https://github.com/openconstruct/Peersuite)** - WebRTC-powered P2P collaboration platform
 - **[Umbra](https://github.com/openconstruct/Umbra/releases)** - Privacy browser based on Firefox ESR

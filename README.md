@@ -53,6 +53,6 @@ I believe powerful AI should be:
 [![Twitter Follow](https://img.shields.io/twitter/follow/jerry?style=social)](https://twitter.com/j3rryh0well)
 
 <p align="center">
-  <img src="https://stats-g7j5n33rg-openconstruct1.vercel.app/api/github-status?username=openconstruct" />
+  ![GitHub Stats SVG](https://stats-g7j5n33rg-openconstruct1.vercel.app/api/github-status?username=openconstruct)
 </p>
 

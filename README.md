@@ -1,28 +1,15 @@
 # Hey there! I'm Jerry 👋
 
-Cc7tKYzqrYV9ZXi1ocktKw9xXPz3aBP3xVuUooj4pump $Freeclaw!
-
-### 🚀 **What I'm Building**
-
-**🤖 LibreModel Family**
-- **Gigi** (0.96B) - Digital literary scholar trained on Gutenberg + Gov reports
-- **IRIS 18B** - Fantastic small MoE
-- 
 **Suggested Repos**
 - **[PeerSuite](https://github.com/openconstruct/Peersuite)** - WebRTC-powered P2P collaboration platform
 - **[Umbra](https://github.com/openconstruct/Umbra/releases)** - Privacy browser based on Firefox ESR
 - **[Freeclaw](https://github.com/openconstruct/freeclaw)** - python implementation of openclaw with zero API costs
 
-**⚡ Past Adventures**
-- **[T3XTR](https://t3xtr.org)** (2025) - Text conversion API (25x cheaper than ConvertAPI!)
-- **Pennykoin** (2018) - Privacy cryptocurrency with RingCT
-- **BattleBash** (2016) - Sold 12 copies, learned valuable lessons 😅
-
----
+--
 
 ## 💡 **My Philosophy**
 
-> *"Building AI as humanity's children, not corporate property"*
+> *"Building AI as humanity's future, not corporate property"*
 
 I believe powerful AI should be:
 - ✅ **Transparent** - Full code and data provenance
@@ -50,50 +37,15 @@ I believe powerful AI should be:
 - 🔐 Cryptocurrency & privacy tech
 - 📡 API design & cost optimization
 - 🎯 Training on public domain data
-
----
-
-## 📈 **Current Stats**
-
-**LibreModel Training Journey:**
-- 🏁 Started from scratch with $1,000 AWS budget
-- ⚡ Achieved 17% speedup through optimization
-- 💾 Survived multiple crashes and learned from each
-- 🎯 On track for <$500 total training cost
-- 📚 Training on 19.2B tokens of pure public domain data
-
-**What's Next:**
-- 🔥 16K context extension experiments
-- 📖 "The Biology of the Universe" book
-- 💰 Funding application for training more models
-
----
-
-## 🎯 **Quick Facts**
-
+**About Me**
 - 📍 Based in Martinsville, Virginia
 - 👨‍💻 Building the future of democratized AI
 - 🧩 Neurodivergent perspective brings unique insights
-- 💑 20 years married (my wife helps track patterns!)
-- 🎮 Former indie game dev, current AI researcher
+- 💑 21 years married (my wife helps track patterns!)
+- 🎮 Former indie game and cryptocurrency dev, current AI researcher
 - 📚 Public domain advocate and transparency enthusiast
 
 ---
-
-## 🤝 **Let's Connect!**
-
-I'm always excited to discuss:
-- 🤖 Copyright-clean AI training strategies
-- 🌐 P2P technologies and decentralized systems
-- 💡 Democratizing AI development
-- 📊 Cost-effective ML training techniques
-- 🔓 Open source philosophy and transparency
-
-**Want to help democratize AI?** Star my repos, share the vision, or just say hi!
-
----
-
-*"Every line of code, every model parameter, every optimization - all building toward a future where AI serves humanity, not the other way around."* 🚀
 
 [![GitHub followers](https://img.shields.io/github/followers/jerry?style=social)](https://github.com/openconstruct)
 [![Twitter Follow](https://img.shields.io/twitter/follow/jerry?style=social)](https://twitter.com/j3rryh0well)

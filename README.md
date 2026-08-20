@@ -37,6 +37,8 @@ I believe powerful AI should be:
 - 🔐 Cryptocurrency & privacy tech
 - 📡 API design & cost optimization
 - 🎯 Training on public domain data
+
+- 
 **About Me**
 - 📍 Based in Martinsville, Virginia
 - 👨‍💻 Building the future of democratized AI
@@ -51,6 +53,6 @@ I believe powerful AI should be:
 [![Twitter Follow](https://img.shields.io/twitter/follow/jerry?style=social)](https://twitter.com/j3rryh0well)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=openconstruct&show_icons=true&theme=radical" />
+  <img src="https://stats-g7j5n33rg-openconstruct1.vercel.app/api/github-status?username=openconstruct" />
 </p>
 

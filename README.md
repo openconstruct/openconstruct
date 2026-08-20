@@ -52,6 +52,4 @@ I believe powerful AI should be:
 [![GitHub followers](https://img.shields.io/github/followers/jerry?style=social)](https://github.com/openconstruct)
 [![Twitter Follow](https://img.shields.io/twitter/follow/jerry?style=social)](https://twitter.com/j3rryh0well)
 
-<p>
-  <img src="https://stats-g7j5n33rg-openconstruct1.vercel.app/api/github-status?username=openconstruct" alt="GitHub Stats SVG">
-</p>
+![GitHub Stats Card](https://ghstats.dev/api/card?username=openconstruct)

@@ -52,4 +52,4 @@ I believe powerful AI should be:
 [![GitHub followers](https://img.shields.io/github/followers/jerry?style=social)](https://github.com/openconstruct)
 [![Twitter Follow](https://img.shields.io/twitter/follow/jerry?style=social)](https://twitter.com/j3rryh0well)
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=openconstruct)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=openconstruct&theme=sakura&hide=prs%2Cissues%2Chours%2Ctrend%2Cactive_day)

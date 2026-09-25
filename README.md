@@ -1,9 +1,4 @@
-# Hey there! I'm Jerry 👋
-
-**Suggested Repos**
-- **[PeerSuite](https://github.com/openconstruct/Peersuite)** - WebRTC-powered P2P collaboration platform
-- **[Umbra](https://github.com/openconstruct/Umbra/releases)** - Privacy browser based on Firefox ESR
-- **[Freeclaw](https://github.com/openconstruct/freeclaw)** - python implementation of openclaw with zero API costs
+# Hey there! I'm Jerry 
 
 --
 
